@@ -5,3 +5,8 @@
 2. Criar um repositório **OK**
 3. Conectar o GitHub com o VSCODE **OK**
 4. Enviar o projeto VSCODE para o GtiHub **FOI FEITO**
+
+# Comandos GIT de configuração
+
+git config --global user.name "nomedeusuario"
+git config --global user.email "seuemail@email.com"
