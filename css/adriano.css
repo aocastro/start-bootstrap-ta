@@ -1,0 +1,6 @@
+.bg-adriano {
+    background: url('../img/programmer.jpg');
+    background-position: center;
+    background-size: cover;
+    height: 100vh;
+}
